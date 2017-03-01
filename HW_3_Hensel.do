@@ -1,6 +1,6 @@
-log using "C:\Users\Ian\OneDrive\EC 469\STATA\HW3_Hensel.log", 
+log using "C:\Users\...\STATA\HW3_NAME.log", clear
 
-use "C:\Users\Ian\OneDrive\EC 469\STATA\TRUMPet.DTA", clear
+use "C:\Users\...\STATA\TRUMPet.DTA", clear
 
 
 *A 
